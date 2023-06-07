@@ -1,0 +1,23 @@
+#AllUsers div {
+
+    margin-bottom: 10px;
+}
+
+#AllUsers div input.Suprimer {
+    background-color: rgb(92, 4, 4);
+    color: white;
+    width: 60px;
+
+}
+
+
+#AllUsers div input.Modifier {
+    background-color: rgb(255, 187, 14);
+    color: white;
+    width: 60px;
+
+}
+
+body {
+    background-image: url("login_1.jpg");
+}
